@@ -13,6 +13,7 @@ We analyzed the post related "Operating System" and "Software Architecture". The
 The distribution of the ammount of posts.
 
 ![image](https://user-images.githubusercontent.com/8926142/206589501-b75f89ed-f0ea-4ec0-bb7d-5876df43249b.png)
+
 The second year after the site was created (2009), the number of posts related to the software architecture was four times that of the first year. Since 2009, the number of Posts has grown at an annual rate of 1000. In 2014, the number of posts reached a peak, after which tends to be non-significant.
 
 The distribution of topics of posts:
@@ -22,6 +23,7 @@ We observed the data and found that the related topics are mainly concentrated i
 2. Linux is gradually surpassing Windows. 
 3. As the most used system, amount of posts related to Windows and Mac os are stable. However, the percentage is shrinking. 
 4. At year 2009, due to the annoucemnet of new system architecture, Mao OS is taking much more percentage than 2008. 
+5. Visual Studio and X-code have roughly the same ammount of posts. 
 
 The ammount distribution:
 ![image](https://user-images.githubusercontent.com/8926142/206589562-5f88c8f8-deae-451e-a7a1-ad413adc5907.png)
